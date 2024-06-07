@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b131d70a-042a-404b-8d5c-5aecd9365956/resourceGroups/appserviceP/providers/Microsoft.Web/sites/Plantinhaapp",
+    "appService.deploySubpath": "."
+}
